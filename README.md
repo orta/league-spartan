@@ -1,7 +1,9 @@
 ![League Spartan Variable](documentation/leaguespartan-variable.gif)
 
-League Spartan Variable
+League Spartan Variable - Monospace numbers fork
 =======================
+
+This is a fork of the League Spartan Variable font with monospace numbers. The original font is available at https://www.theleagueofmoveabletype.com/league-spartan
 
 [![Latest Release](https://img.shields.io/github/v/release/theleagueof/league-spartan?label=Download%20Release&logo=Github)](https://github.com/theleagueof/league-spartan/releases/latest)
 [![All Releases](https://img.shields.io/github/downloads/theleagueof/league-spartan/total)](https://github.com/theleagueof/league-spartan/releases)
